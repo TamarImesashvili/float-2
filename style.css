@@ -1,0 +1,15 @@
+div {
+    border: 2px solid rgba(244, 0, 0, 1);
+    width: 230px;
+    height: 297px;
+    margin-top: 9px;
+    margin-left: 12px;
+    overflow-x: scroll;
+    float: left;
+}
+img {
+    width: 560px;
+    height: 646.53px;
+    float: right;
+    margin-right: 8px;
+}
